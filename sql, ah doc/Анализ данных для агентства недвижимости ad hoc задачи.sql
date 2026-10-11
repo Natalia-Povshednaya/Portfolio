@@ -143,8 +143,3 @@ SELECT *
 FROM info_first_month
 JOIN info_last_month USING(month)
 ORDER BY MONTH ;
-
-
-
-
-
